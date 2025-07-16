@@ -1,0 +1,19 @@
+# This file lists the Python dependencies for the DesktopCompanion project.
+
+# Core application framework (e.g., PyQt5 or Tkinter for the GUI)
+# PyQt5
+# or
+# tkinter
+
+# For system-level interactions and monitoring
+# psutil # To monitor running processes (for distraction detection)
+# pynput # To monitor keyboard/mouse activity
+
+# For potential future features like AI interaction
+# openai
+
+# For handling configurations
+# pyyaml
+
+# Note: Specific versions should be added as development progresses.
+# Example: PyQt5==5.15.9
